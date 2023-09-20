@@ -48,13 +48,13 @@ $ wget
 - Make it executable:
 
 ```
-$ chmod +x ./pentmenu
+$ chmod +x ./menu
 ```
 
 - Run it:
 
 ```
-$ ./pentmenu
+$ ./menu
 ```
 
 Alternatively, download the latest release from https://github.com/NailecLeVrai/NailecTool, extract it and run the script.

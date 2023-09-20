@@ -39,7 +39,7 @@ Tested on Debian and Arch.
 ## How to use?
 
 
-# Dowload
+# Get For Kali/Debian
 - Update
 
 ```

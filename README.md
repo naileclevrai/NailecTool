@@ -65,7 +65,6 @@ $ git clone https://github.com/NailecLeVrai/NailecTool
 ```
 
 - Make it executable:
-- 
 
 ```
 $ chmod +x ./menu
@@ -78,10 +77,41 @@ $ ./menu
 ```
 
 Alternatively, download the latest release from https://github.com/NailecLeVrai/NailecTool, extract it and run the script.
-Or use git clone:
+
+# Get For Termux
+- Get Update
 
 ```
-git clone https://github.com/NailecLeVrai/NailecTool
+$ pkg update
+```
+
+- Install Updates
+
+```
+$ pkg upgrade
+```
+
+- Install Dependencies
+```
+$ apt install git php openssh curl wget -y
+```
+
+-Install Script
+
+```
+$ git clone https://github.com/NailecLeVrai/NailecTool
+```
+
+- Make it Executable
+
+```
+$ chmod +x ./menu
+```
+
+- Start Script
+
+```
+$ bash menu.sh
 ```
 
 ## GoodBye

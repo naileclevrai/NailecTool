@@ -64,19 +64,23 @@ $ apt install git php openssh curl wget -y
 $ git clone https://github.com/NailecLeVrai/NailecTool 
 ```
 
+- Go in Folder
+
+```
+$ cd NailecTool
+```
+
 - Make it executable:
 
 ```
-$ chmod +x ./menu
+$ chmod +x ./menu.sh
 ```
 
 - Run it:
 
 ```
-$ ./menu
+$ ./menu.sh
 ```
-
-Alternatively, download the latest release from https://github.com/NailecLeVrai/NailecTool, extract it and run the script.
 
 # Get For Termux
 - Get Update
@@ -102,10 +106,16 @@ $ apt install git php openssh curl wget -y
 $ git clone https://github.com/NailecLeVrai/NailecTool
 ```
 
+- Go in Folder
+
+```
+$ cd NailecTool
+```
+
 - Make it Executable
 
 ```
-$ chmod +x ./menu
+$ chmod +x ./menu.sh
 ```
 
 - Start Script

@@ -56,11 +56,11 @@ $ chmod +x ./pentmenu
 $ ./pentmenu
 ```
 
-Alternatively, download the latest release from , extract it and run the script.
+Alternatively, download the latest release from https://github.com/NailecLeVrai/NailecTool, extract it and run the script.
 Or use git clone:
 
 ```
-git clone 
+git clone https://github.com/NailecLeVrai/NailecTool
 ```
 
 ## Module detail

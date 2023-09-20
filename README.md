@@ -39,13 +39,33 @@ Tested on Debian and Arch.
 ## How to use?
 
 
-- Download the script:
+# Dowload
+- Update
 
 ```
-$ wget 
+$ apt update
+```
+
+- install updates
+
+```
+$ apt upgrade 
+```
+
+- install dependencies
+
+```
+$ apt install git php openssh curl wget -y
+```
+
+- Install Script
+
+```
+$ git clone https://github.com/NailecLeVrai/NailecTool 
 ```
 
 - Make it executable:
+- 
 
 ```
 $ chmod +x ./menu
